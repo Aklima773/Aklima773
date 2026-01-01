@@ -3,13 +3,13 @@
   <img src="https://i.ibb.co/vxrbrNMz/26195939-programmer-text-2.jpg" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Aklima Akter</h1>
+<h1 align="center">Hi, Aklima Akter</h1>
 <h3 align="center">MERN Stack Developer | Web Application Developer</h3>
 
 <p align="center">
 📍 Bangladesh &nbsp; | &nbsp;
-📧 aklima.dev@gmail.com &nbsp; | &nbsp;
-📞 +8801XXXXXXXXX
+📧 aklimaa773@gmail.com &nbsp; | &nbsp;
+
 </p>
 
 ---
@@ -65,12 +65,12 @@ I am a passionate **MERN Stack Developer** with hands-on experience in building 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aklima773&show_icons=true&locale=en" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklima773&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aklima773&show_icons=true&locale=en" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklima773&layout=compact" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aklima773"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aklima773"/>
 </p>
 
 ---
