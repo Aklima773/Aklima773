@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/vxrbrNMz/26195939-programmer-text-2.jpg" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi, Aklima Akter</h1>
+<h1 align="center">Hi 👋, I'm Aklima Akter</h1>
 <h3 align="center">MERN Stack Developer | Web Application Developer</h3>
 
 <p align="center">
