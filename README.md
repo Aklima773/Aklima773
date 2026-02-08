@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aklima Akter</h1>
-<h3 align="center">MERN Stack Developer | Web Application Developer</h3>
+<h3 align="center">Full Stack Developer | Web Application Developer</h3>
 
 <p align="center">
 📍 Bangladesh &nbsp; | &nbsp;
