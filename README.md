@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate **MERN Stack Developer** with hands-on experience in building scalable, responsive, and user-focused web applications. I enjoy working with modern JavaScript frameworks and transforming ideas into real-world solutions. I am continuously learning and improving my skills through project-based development.
+I am a passionate **Full Stack Developer** with hands-on experience in building scalable, responsive, and user-focused web applications. I enjoy working with modern JavaScript frameworks and transforming ideas into real-world solutions. I am continuously learning and improving my skills through project-based development.
 
 ---
 
