@@ -89,19 +89,19 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 ## 📊 GitHub Stats ✨
   
-  <!-- Activity Graph -->
-  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true)
-</div>
 
 ## 📊 GitHub Stats ✨
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aklima773&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+<!-- GitHub Stats Card -->
+<img width="48%" 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aklima773&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
 
-  <!-- Top Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklima773&layout=compact&theme=gruvbox&hide_border=true" />
+<!-- Top Languages -->
+<img width="48%" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aklima773&layout=compact&theme=gruvbox&hide_border=true" />
+
 
   <br><br>
 
@@ -115,8 +115,7 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 </div>
 
-## 🌟 Recent Activity
-![Recent Commits](https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true)
+
 
 ## 🎯 Success Stories
 "Deployed my e-commerce on Namecheap with MongoDB. Perfect!" ⭐⭐⭐⭐⭐
