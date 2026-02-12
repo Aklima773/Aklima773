@@ -58,62 +58,77 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 ## 🔥 Featured Projects
 
-<div displa="flex">
-<div align="center" >
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
 
 ### **Topfit Limagarments** 🛒
-<img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" alt="Topfit" width="300" height="200" style="border-radius: 10px;"/>
+<img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" width="250" style="border-radius:10px;" />
 
-**Full stack e-commerce** | Next.js 15 + MongoDB + Tailwind  
+**Full stack e-commerce**  
+Next.js 15 • MongoDB • Tailwind  
+
 [🔗 Live Demo](https://codewithrim.com/)
 
----
+</td>
+
+<td align="center" width="33%">
 
 ### **Plate Share** 💻
-<img src="https://i.ibb.co.com/XfQQxD6F/plateshare.jpg" alt="Code with Rim" width="300" height="200" style="border-radius: 10px;"/>
+<img src="https://i.ibb.co.com/XfQQxD6F/plateshare.jpg" width="250" style="border-radius:10px;" />
 
-**Coding portfolio** | Next.js App Router + DaisyUI  
+**Coding portfolio**  
+Next.js • App Router • DaisyUI  
+
 [🔗 Live Demo](https://codewithrim.com/)
 
----
+</td>
+
+<td align="center" width="33%">
 
 ### **Club Sphere** 🎉
-<img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" alt="Club Platform" width="300" height="200" style="border-radius: 10px;"/>
+<img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" width="250" style="border-radius:10px;" />
 
-**Event system** | React + Node.js + MongoDB  
+**Event system**  
+React • Node.js • MongoDB  
+
 [📂 GitHub](https://github.com/Aklima773)
 
-</div>
-  </div>
+</td>
 
+</tr>
+</table>
 
-## 📊 GitHub Stats ✨
-  
 
 ## 📊 GitHub Stats ✨
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img width="48%" 
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aklima773&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+  <!-- GitHub Stats Card -->
+  <img width="70%" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aklima773&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
 
-<!-- Top Languages -->
-<img width="48%" 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aklima773&layout=compact&theme=gruvbox&hide_border=true" />
+  <br><br>
 
+  <!-- Top Languages -->
+  <img width="70%" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aklima773&layout=compact&theme=gruvbox&hide_border=true" />
 
   <br><br>
 
   <!-- Streak Stats -->
-  <img width="60%" src="https://streak-stats.demolab.com?user=Aklima773&theme=gruvbox&hide_border=true" />
+  <img width="70%" 
+  src="https://streak-stats.demolab.com?user=Aklima773&theme=gruvbox&hide_border=true" />
 
   <br><br>
 
-  <!-- Activity Graph (Working One) -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true" />
+  <!-- Activity Graph -->
+  <img width="95%" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true" />
 
 </div>
+
 
 
 
