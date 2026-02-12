@@ -90,7 +90,8 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 ## 📊 GitHub Stats ✨
 <div align="center">
   <!-- Trophies -->
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Aklima773&theme=radical&no-frame=true&margin-w=15)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&bg_color=0d1117&color=ffffff&line=4f46e5&point=ffffff&area=true&hide_border=true" />
+
   
   <br><br>
   
