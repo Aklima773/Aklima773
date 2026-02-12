@@ -58,13 +58,40 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Topfit Limagarments** | Full stack e-commerce | Next.js 15, MongoDB, Tailwind | [🔗 Live](https://codewithrim.com/) |
-| **Code with Rim** | Coding journey portfolio | Next.js App Router | [🔗 Live](https://codewithrim.com/) |
-| **Club Platform** | Event management system | React + Node.js + MongoDB | [📂 GitHub](https://github.com/Aklima773) |
+<div align="center">
+
+### **Topfit Limagarments** 🛒
+<img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" alt="Topfit" width="300" height="200" style="border-radius: 10px;"/>
+
+**Full stack e-commerce** | Next.js 15 + MongoDB + Tailwind  
+[🔗 Live Demo](https://codewithrim.com/)
+
+---
+
+### **Plate Share** 💻
+<img src="https://i.ibb.co.com/XfQQxD6F/plateshare.jpg" alt="Code with Rim" width="300" height="200" style="border-radius: 10px;"/>
+
+**Coding portfolio** | Next.js App Router + DaisyUI  
+[🔗 Live Demo](https://codewithrim.com/)
+
+---
+
+### **Club Sphere** 🎉
+<img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" alt="Club Platform" width="300" height="200" style="border-radius: 10px;"/>
+
+**Event system** | React + Node.js + MongoDB  
+[📂 GitHub](https://github.com/Aklima773)
+
+</div>
+  
 
 ## 📊 GitHub Stats ✨
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aklima773&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklima773&layout=compact&langs_count=7&theme=radical&hide_border=true" width="41%" />
+</div>
+
 
 <div align="center">
   ![Profile Views]  <img src="https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5" alt="Profile Views" />
