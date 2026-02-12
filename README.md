@@ -38,9 +38,6 @@ I'm a passionate **Full Stack Developer** who turns ideas into **production-read
 
 **From concept → development → live deployment** - Complete solutions!
 
----
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=github-compact&hide_border=true)
 
 ## 💼 What I Build
 
