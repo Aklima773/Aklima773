@@ -3,13 +3,13 @@
   <!-- Dark/Light Mode Banner -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=topfitlimagarments&theme=dark&border_radius=10">
-    <img alt="Banner" src="https://i.ibb.co.com/rKcsJzJP/github.png?username=YOUR_USERNAME&repo=topfitlimagarments&theme=radical&border_radius=10">
+    <img alt="Banner" src="https://i.ibb.co.com/rKcsJzJP/github.png?username=https://github.com/Aklima773&repo=topfitlimagarments&theme=radical&border_radius=10">
   </picture>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=gradient" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/Aklima773&color=gradient" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/https://github.com/Aklima773?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 # 👋 Welcome to Rim's Full Stack Development Portfolio!
@@ -20,12 +20,12 @@
 
 I build **modern web applications** with clean code, pixel-perfect UI/UX, and scalable backends. From e-commerce stores to personal portfolios, I deliver **production-ready solutions**.
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Aklima773&theme=github-compact&hide_border=true)
 
 ## 💼 Professional Services
 | 🎨 **Frontend** | ⚡ **Backend** | 🚀 **Deployment** |
 |---|---|---|
-| React 18+, Next.js 15 | Node.js, Express | Vercel, Namecheap cPanel |
+| React, Next.js | Node.js, Express | Vercel, Namecheap cPanel, Netlify, Firebase |
 | Tailwind CSS, DaisyUI | MongoDB, EmailJS | Static Exports |
 | Responsive Design | REST APIs | SEO Optimized |
 
@@ -53,7 +53,7 @@ Code with Rim	Coding journey blog & portfolio	Next.js App Router, DaisyUI	🔗 L
 Club/Event Platform	Event management system	React, Node.js, MongoDB	📂 GitHub
 
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical&hide_border=true" width="41%" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Aklima773&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Aklima773&layout=compact&langs_count=7&theme=radical&hide_border=true" width="41%" /> </div>
 🌟 Recent Activity
 Recent Commits
 
@@ -72,7 +72,7 @@ text
 🛠️ 8+ projects live and maintained
 
 📫 Let's Collaborate!
-<p align="center"> <a href="https://facebook.com/codewithrim"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://linkedin.com/in/rim-developer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4f46e5&label=Profile%20views&style=flat" alt="Profile Views"/> </div>
+<p align="center"> <a href="https://facebook.com/codewithrim"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://linkedin.com/in/rim-developer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Aklima773&color=4f46e5&label=Profile%20views&style=flat" alt="Profile Views"/> </div>
 💻 Need a Developer?
 Custom websites • E-commerce • Portfolios • Backend APIs
 
