@@ -88,22 +88,32 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 
 ## 📊 GitHub Stats ✨
-<div align="center">
-  <!-- Trophies -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&bg_color=0d1117&color=ffffff&line=4f46e5&point=ffffff&area=true&hide_border=true" />
-
-  
-  <br><br>
-  
-  <!-- Profile Metrics -->
-  ![Views](https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5&style=flat-square)
-  
-  <br><br>
   
   <!-- Activity Graph -->
   ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true)
 </div>
 
+## 📊 GitHub Stats ✨
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aklima773&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+
+  <!-- Top Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklima773&layout=compact&theme=gruvbox&hide_border=true" />
+
+  <br><br>
+
+  <!-- Streak Stats -->
+  <img width="60%" src="https://streak-stats.demolab.com?user=Aklima773&theme=gruvbox&hide_border=true" />
+
+  <br><br>
+
+  <!-- Activity Graph (Working One) -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true" />
+
+</div>
 
 ## 🌟 Recent Activity
 ![Recent Commits](https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true)
