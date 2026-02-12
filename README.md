@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/vxrbrNMz/26195939-programmer-text-2.jpg" alt="GitHub Banner" />
+  <img src="https://i.ibb.co.com/rKcsJzJP/github.png" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aklima Akter</h1>
