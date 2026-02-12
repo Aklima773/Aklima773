@@ -1,88 +1,86 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co.com/rKcsJzJP/github.png" alt="GitHub Banner" />
-</p>
 
-<h1 align="center">Hi 👋, I'm Aklima Akter</h1>
-<h3 align="center">Full Stack Developer | Web Application Developer</h3>
-
-<p align="center">
-📍 Bangladesh &nbsp; | &nbsp;
-📧 aklimaa773@gmail.com &nbsp; | &nbsp;
-
-</p>
-
----
-
-## 👩‍💻 About Me
-
-I am a passionate **Full Stack Developer** with hands-on experience in building scalable, responsive, and user-focused web applications. I enjoy working with modern JavaScript frameworks and transforming ideas into real-world solutions. I am continuously learning and improving my skills through project-based development.
-
----
-
-## 🔭 Current Activities
-
-- 🌱 Exploring **Next.js** and performance optimization  
-- 🛠️ Working on a **club management web application (ClubSphere)**  
-- 🤝 Looking to collaborate on **open-source and frontend-focused projects**
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
+<div align="center">
+  <!-- Dark/Light Mode Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=topfitlimagarments&theme=dark&border_radius=10">
+    <img alt="Banner" src="https://i.ibb.co.com/rKcsJzJP/github.png?username=YOUR_USERNAME&repo=topfitlimagarments&theme=radical&border_radius=10">
+  </picture>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aklima773&show_icons=true&locale=en" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklima773&layout=compact" height="160"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=gradient" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aklima773"/>
-</p>
+# 👋 Welcome to Rim's Full Stack Development Portfolio!
 
----
+## 🚀 About Me
+**Full Stack Web Developer** from **Dhaka, Bangladesh** 🇧🇩  
+**8+ Live Projects** • **Production Deployments** • **MongoDB + Next.js Specialist**
 
-## 🔗 Connect With Me
+I build **modern web applications** with clean code, pixel-perfect UI/UX, and scalable backends. From e-commerce stores to personal portfolios, I deliver **production-ready solutions**.
 
-<p>
-  <a href="https://www.linkedin.com/in/aklimaa773/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
 
----
+## 💼 Professional Services
+| 🎨 **Frontend** | ⚡ **Backend** | 🚀 **Deployment** |
+|---|---|---|
+| React 18+, Next.js 15 | Node.js, Express | Vercel, Namecheap cPanel |
+| Tailwind CSS, DaisyUI | MongoDB, EmailJS | Static Exports |
+| Responsive Design | REST APIs | SEO Optimized |
 
-⭐ *Thank you for visiting my GitHub profile!*  
+## 🛠️ Technology Stack
+```mermaid
+graph TB
+  Frontend[Frontend] --> React[⚛️ React]
+  Frontend --> NextJS[⚡ Next.js 15]
+  Frontend --> Tailwind[💨 Tailwind CSS]
+  Frontend --> Daisy[DaisyUI]
+  
+  Backend[Backend] --> Node[⚡️ Node.js]
+  Backend --> Mongo[🗄️ MongoDB]
+  Backend --> Express[📡 Express]
+  
+  Deploy[Deployment] --> Vercel[🌐 Vercel]
+  Deploy --> Namecheap[🖥️ Namecheap]
+
+<span class="animate-pulse">⚛️</span> React <span class="animate-bounce">⚡</span> Next.js <span class="animate-spin">💨</span> Tailwind <span class="animate-ping">🗄️</span> MongoDB
+
+🔥 Featured Projects (8+ Total)
+Project	Description	Tech Stack	📱 Live Demo
+Topfit Limagarments	Full stack e-commerce with MongoDB	Next.js 15, Tailwind, MongoDB	🔗 Live
+Code with Rim	Coding journey blog & portfolio	Next.js App Router, DaisyUI	🔗 Live
+Club/Event Platform	Event management system	React, Node.js, MongoDB	📂 GitHub
+
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical&hide_border=true" width="41%" /> </div>
+🌟 Recent Activity
+Recent Commits
+
+🎯 What Clients Say
+text
+"Deployed my e-commerce site on Namecheap with MongoDB backend. Perfect!" 
+"Fixed all image optimization issues. Lightning fast now!"
+"Built my portfolio from scratch. Professional result!"
+📈 Current Activities
+🔨 Working on Next.js 15 production apps
+
+🚀 Deploying on Vercel & Namecheap cPanel
+
+💻 Creating coding tutorials for Code with Rim
+
+🛠️ 8+ projects live and maintained
+
+📫 Let's Collaborate!
+<p align="center"> <a href="https://facebook.com/codewithrim"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://linkedin.com/in/rim-developer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4f46e5&label=Profile%20views&style=flat" alt="Profile Views"/> </div>
+💻 Need a Developer?
+Custom websites • E-commerce • Portfolios • Backend APIs
+
+<span class="animate-pulse">📩 DM me on Facebook @codewithrim</span>
+
+⭐ Star this repo if you found it helpful!
+💻 Built with ❤️ using Next.js 15 + Tailwind CSS
+
+https://github.com/Aklima773
+https://codewithrim.com/
+aklimaremotework@gmail.com
