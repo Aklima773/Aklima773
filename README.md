@@ -89,31 +89,6 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 ## 📊 GitHub Stats ✨
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5" alt="Profile Views" />
-</div>
-
-<div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aklima773&theme=radical&no-frame=true&margin-w=15&margin-h=15&no-bg=true)
-</div>
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5)
-  ![Streak Stats](https://streak-stats.demolab.com/?user=Aklima773&theme=radical)
-</div>
-
-## 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aklima773&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklima773&layout=compact&theme=default" width="40%"/>
-</div>
-
-## 📈 My Stats
-⭐ 8+ Live Projects Deployed
-📊 100+ Commits in 2026
-⚡ Next.js 15 | MongoDB Expert
-🌐 Vercel + Namecheap Deployments
-
-## 📊 GitHub Stats ✨
-<div align="center">
   <!-- Trophies -->
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Aklima773&theme=radical&no-frame=true&margin-w=15)
   
