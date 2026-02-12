@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Rounded Banner with Border Radius -->
-  <img src="https://i.ibb.co/rKcsJzJP/github.png" alt="Banner" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
+  <img src="https://i.ibb.co/rKcsJzJP/github.png" alt="Banner" style="border-radius: 25px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
   
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4f46e5&center=true&vCenter=true&random=false&width=600&height=60&duration=4000&lines=Hi%2C+I'm+Rim+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%8E%A1;React+Next.js+%2B+MongoDB+Specialist;8%2B+Projects+Deployed+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
 # 👋 Welcome to **Code With Rim's** Full Stack Portfolio! ✨
 
-## 🚀 About Me
+## About Me
 
 
 **Hello there! 👋**  
@@ -64,12 +64,10 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 | **Code with Rim** | Coding journey portfolio | Next.js App Router | [🔗 Live](https://codewithrim.com/) |
 | **Club Platform** | Event management system | React + Node.js + MongoDB | [📂 GitHub](https://github.com/Aklima773) |
 
-## 📊 GitHub Stats & Trophies ✨
+## 📊 GitHub Stats ✨
 
 <div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aklima773&theme=radical&no-frame=true&margin-w=15&margin-h=15)
-  <br><br>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5&style=flat)
+  ![Profile Views]  <img src="https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5" alt="Profile Views" />
 </div>
 
 ## 🌟 Recent Activity
@@ -109,25 +107,19 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 ## 💻 Hire Me For **ANY** MERN Stack Project:
 
-🛒 Full Stack E-commerce - Complete stores with MongoDB cart/checkout
-📚 Educational Platforms - Course sites, LMS, student dashboards
-💼 Service Marketplaces - Booking systems, service providers
-⚡ Custom MERN Applications - Frontend + Backend solutions
-🎨 React/Next.js Frontends - Modern, responsive interfaces
-🗄️ MongoDB Backends - APIs, authentication, databases
-🚀 Production Deployment - Vercel, Namecheap, fully optimized
+🛒 Full Stack E-commerce - Complete stores with MongoDB cart/checkout <br>
+📚 Educational Platforms - Course sites, LMS, student dashboards <br>
+💼 Service Marketplaces - Booking systems, service providers <br>
+⚡ Custom MERN Applications - Frontend + Backend solutions <br>
+🎨 React/Next.js Frontends - Modern, responsive interfaces <br>
+🗄️ MongoDB Backends - APIs, authentication, databases <br>
+🚀 Production Deployment - Vercel, Namecheap, fully optimized <br>
 
 <div align="center">
-  <span style="color: #4f46e5; font-size: 1.3em; font-weight: bold;">📩 DM @codewithrim on Facebook</span>
+  <span style="color: #4f46e5; font-size: 1.3em; font-weight: bold;">📩 DM@ codewithrim.com</span>
 </div>
 
 <br>
 
-⭐ **Star this repo if helpful!**  
-💻 **Built with Next.js 15 + Tailwind CSS**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Maintained%20With-%E2%9D%A4%EF%B8%8F-brightgreen?style=for-the-badge&logo=github" alt="Maintained"/>
-</div>
 
 
