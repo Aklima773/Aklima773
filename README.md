@@ -58,7 +58,8 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 ## 🔥 Featured Projects
 
-<div align="center">
+<div displa="flex">
+<div align="center" >
 
 ### **Topfit Limagarments** 🛒
 <img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" alt="Topfit" width="300" height="200" style="border-radius: 10px;"/>
@@ -83,19 +84,50 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 [📂 GitHub](https://github.com/Aklima773)
 
 </div>
-  
+  </div>
+
 
 ## 📊 GitHub Stats ✨
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aklima773&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklima773&layout=compact&langs_count=7&theme=radical&hide_border=true" width="41%" />
+  <img src="https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5" alt="Profile Views" />
 </div>
 
-
 <div align="center">
-  ![Profile Views]  <img src="https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5" alt="Profile Views" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aklima773&theme=radical&no-frame=true&margin-w=15&margin-h=15&no-bg=true)
 </div>
+<div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5)
+  ![Streak Stats](https://streak-stats.demolab.com/?user=Aklima773&theme=radical)
+</div>
+
+## 📊 Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aklima773&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklima773&layout=compact&theme=default" width="40%"/>
+</div>
+
+## 📈 My Stats
+⭐ 8+ Live Projects Deployed
+📊 100+ Commits in 2026
+⚡ Next.js 15 | MongoDB Expert
+🌐 Vercel + Namecheap Deployments
+
+## 📊 GitHub Stats ✨
+<div align="center">
+  <!-- Trophies -->
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Aklima773&theme=radical&no-frame=true&margin-w=15)
+  
+  <br><br>
+  
+  <!-- Profile Metrics -->
+  ![Views](https://komarev.com/ghpvc/?username=Aklima773&color=4f46e5&style=flat-square)
+  
+  <br><br>
+  
+  <!-- Activity Graph -->
+  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true)
+</div>
+
 
 ## 🌟 Recent Activity
 ![Recent Commits](https://github-readme-activity-graph.vercel.app/graph?username=Aklima773&theme=gruvbox&hide_border=true)
@@ -143,7 +175,7 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 🚀 Production Deployment - Vercel, Namecheap, fully optimized <br>
 
 <div align="center">
-  <span style="color: #4f46e5; font-size: 1.3em; font-weight: bold;">📩 DM@ codewithrim.com</span>
+  <span style="color: #4f46e5; font-size: 1.3em; font-weight: bold;">📩 DM@ http://www.codewithrim.com/</span>
 </div>
 
 <br>
