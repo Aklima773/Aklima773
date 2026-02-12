@@ -1,4 +1,12 @@
 <div align="center">
+  <!-- Dark/Light Mode Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=topfitlimagarments&theme=dark&border_radius=10">
+    <img alt="Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=topfitlimagarments&theme=radical&border_radius=10">
+  </picture>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4f46e5&center=true&vCenter=true&random=false&width=600&height=60&duration=4000&lines=Hi%2C+I'm+Rim+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%8E%A1;Next.js+%2B+MongoDB+Specialist;8%2B+Projects+Deployed+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
