@@ -171,7 +171,7 @@ React • Node.js • MongoDB
 🚀 Production Deployment - Vercel, Namecheap, fully optimized <br>
 
 <div align="center">
-  <span style="color: #4f46e5; font-size: 1.3em; font-weight: bold;">📩 DM@ http://www.codewithrim.com/</span>
+  <span style="color: #4f46e5; font-size: 1.3em; font-weight: bold;">📩 DM@ aklimaremotework@gmail.com</span>
 </div>
 
 <br>
