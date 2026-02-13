@@ -17,9 +17,8 @@
 
 
 **Hello there! 👋**  
-I'm a passionate **Full Stack Developer** who turns ideas into **production-ready web applications**. With **8+ live projects** deployed on Vercel & Namecheap,Netlify,Firebase, I deliver complete end-to-end solutions.
+I'm a full-stack web developer from Dhaka with hands-on expertise in React.js, Next.js, Tailwind CSS, Node.js, and Vercel, Namecheap deployments. I specialize in designing interactive UIs and scalable full-stack apps. This README gives a quick overview of my skills, expertise, and recent projects.Feel free to explore my work, and let's discuss how I can add value to your project!
 
-<br>
 
 **🔥 Full Stack Expert:**  
 `React` • `Next.js 15` • `Node.js` • `MongoDB` • `Express.js`
