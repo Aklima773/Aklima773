@@ -57,7 +57,7 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 <table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### **Topfit Limagarments** 🛒
 <img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" width="250" style="border-radius:10px;" />
@@ -71,7 +71,7 @@ Next.js 15 • MongoDB • Tailwind
 
 
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### **Club Sphere** 🎉
 <img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" width="250" style="border-radius:10px;" />
@@ -85,6 +85,9 @@ React • Node.js • MongoDB
 <td align="center" width="33%">
 
 ### 🧸 Local Toy House 
+> 🚧 **Project Status:** This project is currently under active development.  
+> New features, Cart Funtion, Dashboard and other improvements are being implemented.
+
 
 <img src="https://i.ibb.co.com/1Jz87F7j/MOCKUP.png" width="250" style="border-radius:10px;" />
 
