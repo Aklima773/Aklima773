@@ -55,73 +55,57 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 ## 🔥 Featured Projects
 
 <table align="center">
-<tr>
 
+<tr>
 <td align="center" width="50%">
 
-### **Topfit Limagarments** 🛒
-<img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" width="250" style="border-radius:10px;" />
+### 🛒 Topfit Limagarments
+<img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" width="250"/>
 
-**Full stack e-commerce**  
+**Full Stack E-commerce**  
 Next.js 15 • MongoDB • Tailwind  
 
 [🔗 Live Demo](https://codewithrim.com/)
 
 </td>
 
-
-
 <td align="center" width="50%">
 
-### **Club Sphere** 🎉
-<img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" width="250" style="border-radius:10px;" />
+### 🎉 Club Sphere
+<img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" width="250"/>
 
-**Event system**  
+**Event Management System**  
 React • Node.js • MongoDB  
 
 [📂 GitHub](https://github.com/Aklima773)
 
 </td>
-<td align="center" width="33%">
-
-### 🧸 Local Toy House 
-> 🚧 **Project Status:** This project is currently under active development.  
-> New features, Cart Funtion, Dashboard and other improvements are being implemented.
-
-
-<img src="https://i.ibb.co.com/1Jz87F7j/MOCKUP.png" width="250" style="border-radius:10px;" />
-
-**Full-Stack E-commerce Platform**  
-React • Tailwind CSS • Firebase Authentication  
-
----
-
-### 📌 Project Overview
-
-Local Toy House is a full-stack toy-selling web application designed to provide a smooth and secure online shopping experience.  
-
-Users can register and log in securely, browse available toys, and manage their personal profiles with proper authentication and error handling.  
-
-The platform focuses on usability, security, and a clean, responsive user interface.
-
----
-
-### ✨ Key Features
-
-🧸 Secure user authentication system with registration, login, and error handling  
-
-🧸 Dynamic product listing where users can view available toys in detail  
-
-🧸 User profile management with edit and update functionality  
-
----
-
-### 🚀 Live Demo
-
-🔗 [Visit Local Toy House](https://localtoyhouse.netlify.app/)
-
 </tr>
+
+<!-- SECOND ROW STARTS HERE -->
+
+<tr>
+<td align="center" width="50%">
+
+### 🧸 Local Toy House
+> 🚧 **Status:** Work in Progress  
+
+<img src="https://i.ibb.co.com/1Jz87F7j/MOCKUP.png" width="250"/>
+
+**Full-Stack E-commerce**  
+React • Tailwind CSS • Firebase Auth  
+
+[🔗 Live Demo](https://localtoyhouse.netlify.app/)
+
+</td>
+
+<td align="center" width="50%">
+<!-- Empty cell to keep layout balanced -->
+</td>
+</tr>
+
 </table>
+
 
 
 ## 📊 GitHub Stats ✨
