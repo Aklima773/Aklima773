@@ -60,25 +60,41 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 <tr>
 <td align="center" width="50%">
 
-### 🛒 Topfit Limagarments
-<img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" width="300" style="border-radius:15px;" />
-
-**Full Stack E-commerce**  
-Next.js 15 • MongoDB • Tailwind  
-
-[🔗 Live Demo](https://codewithrim.com/)
-
-</td>
-
-<td align="center" width="50%">
-
 ### 🎉 Club Sphere
+> 🚧 **Status:** Work in Progress  
 <img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" width="300" style="border-radius:15px;" />
 
 **Event Management System**  
 React • Node.js • MongoDB  
 
+### 📌 Project Overview:
+It's a Responsive Event Management Club.Where Registered user Can be promoted as Club manager by Admin and after promoting Can Offer Event under Avavilabe registered club and user can book that on free on cost
+### ✨ Key Features
+● Built a protected dashboard for managing members and club activities
+● Implemented authentication and authorization to secure private routes
+● Structured the frontend using modular, reusable components
+
 [📂 GitHub](https://github.com/Aklima773)
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎉 Plate Share
+<img src="https://i.ibb.co.com/8LyTnWJr/screenshot-6.png" width="300" style="border-radius:15px;" />
+
+**Food Sharing **  
+React • Node.js • MongoDB  
+
+### 📌 Project Overview:
+It's a Responsive Food share or Doner Web App.User Can Register with Firebase -Auth Term, and As Doner can Offer Foods and matching location Registers User Can get that as available date.
+### ✨ Key Features
+● Built a role-based food sharing platform supporting food posting, requests, and donations
+● Implemented secure authentication and protected routes for different user roles
+● Developed REST APIs and integrated MongoDB for reliable data storage and retrieval
+● Designed responsive, reusable UI components for consistent user experience
+
+[🔗 Live Demo](https://plateshareaklima.netlify.app/)
 
 </td>
 </tr>
@@ -108,11 +124,7 @@ Local Toy House is a full-stack toy-selling web application designed to provide 
 
 <td align="center" width="50%">
 
-### 🚀 Your Next Project
-<img src="https://via.placeholder.com/300x200" width="300" style="border-radius:15px;" />
-
-**Coming Soon**  
-New exciting full-stack project  
+ 
 
 </td>
 </tr>
@@ -162,8 +174,9 @@ New exciting full-stack project
 <br>
 "User Authentication with JWT Auth!" ⭐⭐⭐⭐⭐
 
+
 ## 📈 Currently Working On
-- 🔨 **Next.js** production deployments  
+- 🔨 **Next.js** TopFit(Ecommerce-siet) [🔗 Live Demo](https://topfitlimagarments.vercel.app/)
 - 🚀 **Vercel & Namecheap cPanel** optimization
 - 💻 **Code with Rim** portfolio
 - 🛠️ Maintaining **8+ live projects**
