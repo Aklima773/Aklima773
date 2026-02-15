@@ -95,6 +95,12 @@ React • Node.js • MongoDB
 
 **Full-Stack E-commerce Platform**  
 React • Tailwind CSS • Firebase Auth  
+### 📌 Project Overview:
+Local Toy House is a full-stack toy-selling web application designed to provide a smooth and secure online shopping experience. Users can register and log in securely, browse available toys, and manage their personal profiles with proper authentication and error handling. The platform focuses on usability, security, and a clean, responsive user interface.
+### ✨ Key Features
+🧸 Secure user authentication system with registration, login, and error handling 
+🧸 Dynamic product listing where users can view available toys in detail 
+🧸 User profile management with edit and update functionality ---
 
 [🔗 Live Demo](https://localtoyhouse.netlify.app/)
 
