@@ -69,17 +69,7 @@ Next.js 15 • MongoDB • Tailwind
 
 </td>
 
-<td align="center" width="33%">
 
-### **Plate Share** 💻
-<img src="https://i.ibb.co.com/XfQQxD6F/plateshare.jpg" width="250" style="border-radius:10px;" />
-
-**Coding portfolio**  
-Next.js • App Router • DaisyUI  
-
-[🔗 Live Demo](https://codewithrim.com/)
-
-</td>
 
 <td align="center" width="33%">
 
@@ -92,7 +82,28 @@ React • Node.js • MongoDB
 [📂 GitHub](https://github.com/Aklima773)
 
 </td>
+<td align="center" width="33%">
 
+### **Local Toy House** 💻
+<img src="https://i.ibb.co.com/1Jz87F7j/MOCKUP.png" width="250" style="border-radius:10px;" />
+
+**Full - Stack e-commerce**  
+React • Tailwindcss • Firebase-Auth  
+<p>Details:
+Local Toy House is a full-stack toy-selling web application designed to provide a smooth and secure online shopping experience. Users can register, log in, browse available toys, and manage their personal profiles with proper authentication and error handling. The platform focuses on usability, security, and clean user interface design.
+
+✔
+Secure user authentication system with registration, login, and error handling
+
+✔
+Dynamic product listing where users can view available toys in detail
+
+✔
+User profile management with edit and update functionality</p>
+
+[🔗 Live Demo](https://localtoyhouse.netlify.app/)
+
+</td>
 </tr>
 </table>
 
