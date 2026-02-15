@@ -54,13 +54,14 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 ## 🔥 Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
 
+<!-- ROW 1 -->
 <tr>
 <td align="center" width="50%">
 
 ### 🛒 Topfit Limagarments
-<img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" width="250"/>
+<img src="https://i.ibb.co.com/kVSV6TsZ/topy.jpg" width="300" style="border-radius:15px;" />
 
 **Full Stack E-commerce**  
 Next.js 15 • MongoDB • Tailwind  
@@ -72,7 +73,7 @@ Next.js 15 • MongoDB • Tailwind
 <td align="center" width="50%">
 
 ### 🎉 Club Sphere
-<img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" width="250"/>
+<img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" width="300" style="border-radius:15px;" />
 
 **Event Management System**  
 React • Node.js • MongoDB  
@@ -82,17 +83,17 @@ React • Node.js • MongoDB
 </td>
 </tr>
 
-<!-- SECOND ROW STARTS HERE -->
 
+<!-- ROW 2 -->
 <tr>
 <td align="center" width="50%">
 
 ### 🧸 Local Toy House
 > 🚧 **Status:** Work in Progress  
 
-<img src="https://i.ibb.co.com/1Jz87F7j/MOCKUP.png" width="250"/>
+<img src="https://i.ibb.co.com/1Jz87F7j/MOCKUP.png" width="300" style="border-radius:15px;" />
 
-**Full-Stack E-commerce**  
+**Full-Stack E-commerce Platform**  
 React • Tailwind CSS • Firebase Auth  
 
 [🔗 Live Demo](https://localtoyhouse.netlify.app/)
@@ -100,12 +101,17 @@ React • Tailwind CSS • Firebase Auth
 </td>
 
 <td align="center" width="50%">
-<!-- Empty cell to keep layout balanced -->
+
+### 🚀 Your Next Project
+<img src="https://via.placeholder.com/300x200" width="300" style="border-radius:15px;" />
+
+**Coming Soon**  
+New exciting full-stack project  
+
 </td>
 </tr>
 
 </table>
-
 
 
 ## 📊 GitHub Stats ✨
