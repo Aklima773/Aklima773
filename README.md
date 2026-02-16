@@ -62,7 +62,7 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 
 ### 🎉 Club Sphere
 > 🚧 **Status:** Work in Progress  
-<img src="https://i.ibb.co.com/2x8mrC9/clubspare.jpg" width="300" style="border-radius:15px;" />
+<img src="https://i.ibb.co.com/6crxT1M6/clubsphere.jpg" width="300" style="border-radius:15px;" />
 
 **Event Management System**  
 React • Node.js • MongoDB  
@@ -81,7 +81,7 @@ It's a Responsive Event Management Club.Where Registered user Can be promoted as
 <td align="center" width="50%">
 
 ### 🎉 Plate Share
-<img src="https://i.ibb.co.com/8LyTnWJr/screenshot-6.png" width="300" style="border-radius:15px;" />
+<img src="https://i.ibb.co.com/YBc652p2/plateshare.jpg" width="300" style="border-radius:15px;" />
 
 **Food Sharing **  
 React • Node.js • MongoDB  
@@ -118,13 +118,32 @@ Local Toy House is a full-stack toy-selling web application designed to provide 
 🧸 Dynamic product listing where users can view available toys in detail 
 🧸 User profile management with edit and update functionality ---
 
-[🔗 Live Demo](https://localtoyhouse.netlify.app/)
+[🔗 Live Demo](https://localtoyhouse.codewithrim.com/)
 
 </td>
 
 <td align="center" width="50%">
 
- 
+ ### 🧸 Topfit
+> 🚧 **Status:** Work in Progress  
+
+<img src="https://i.ibb.co.com/yBB0GCs2/topfit.webp" width="300" style="border-radius:15px;" />
+
+**Full-Stack E-commerce Platform**  
+Next.js • Tailwind CSS • Next-Auth .MongoDB
+
+
+### 📌 Project Overview:
+TopFit- A T-shirt selling responsibe website. User can view and search their desired t-shirt, and can add to cart and checkout
+### ✨ Key Features
+🧸Responsive Product Browsing – Users can view all available T-shirts and search for their preferred styles seamlessly on any device
+🧸 Shopping Cart Functionality – Easily add products to the cart, update quantities, and proceed to checkout for a smooth shopping experience
+🧸 Secure Checkout Process – Integrated with payment handling and error validation to ensure safe and reliable transactions
+
+[🔗 Live Demo](https://topfit.codewithrim.com/)
+
+</td>
+
 
 </td>
 </tr>
@@ -177,6 +196,7 @@ Local Toy House is a full-stack toy-selling web application designed to provide 
 
 ## 📈 Currently Working On
 - 🔨 **Next.js** TopFit(Ecommerce-siet) [🔗 Live Demo](https://topfitlimagarments.vercel.app/)
+- - 🔨 **React** Local Toy House(Ecommerce-siet) [🔗 Live Demo](https://localtoyhouse.codewithrim.com/)
 - 🚀 **Vercel & Namecheap cPanel** optimization
 - 💻 **Code with Rim** portfolio
 - 🛠️ Maintaining **8+ live projects**
