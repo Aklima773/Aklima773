@@ -74,7 +74,7 @@ It's a Responsive Event Management Club.Where Registered user Can be promoted as
 ● Implemented authentication and authorization to secure private routes
 ● Structured the frontend using modular, reusable components
 
-[📂 GitHub](https://github.com/Aklima773)
+[🔗 Live Demo](https://clubsphereaklima.netlify.app/)
 
 </td>
 
