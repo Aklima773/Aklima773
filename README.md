@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/rKcsJzJP/github.png" alt="Banner" style="border-radius: 25px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4f46e5&center=true&vCenter=true&random=false&width=600&height=60&duration=4000&lines=Hi%2C+I'm+Rim+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%8E%A1;React+Next.js+%2B+MongoDB+Specialist;8%2B+Projects+Deployed+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4f46e5&center=true&vCenter=true&random=false&width=600&height=60&duration=4000&lines=Hi%2C+I'm+Aklima+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%8E%A1;React+Next.js+%2B+MongoDB+Specialist;8%2B+Projects+Deployed+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -60,7 +60,7 @@ Tools: 📧 EmailJS - 🚀 Vercel - 🖥️ Namecheap  <br>
 <tr>
 <td align="center" width="50%">
 
-### 🎉 Club Sphere
+### 🎉 UNION
 > 🚧 **Status:** Work in Progress  
 <img src="https://i.ibb.co.com/6crxT1M6/clubsphere.jpg" width="300" style="border-radius:15px;" />
 
@@ -74,7 +74,7 @@ It's a Responsive Event Management Club.Where Registered user Can be promoted as
 ● Implemented authentication and authorization to secure private routes
 ● Structured the frontend using modular, reusable components
 
-[🔗 Live Demo](https://clubsphereaklima.netlify.app/)
+[🔗 Live Demo](https://union.codewithrim.com)
 
 </td>
 
